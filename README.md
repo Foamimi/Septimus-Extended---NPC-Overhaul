@@ -8,7 +8,7 @@ Hello! This addon will integrate various NPC overhauls into the world of Septimu
 
 A **NEW SAVE is recommended**, just to ensure the weight changes from the various overhauls are automatically applied. If you do the process on an **EXISTING SAVE** it's not the end of the world, but you may run into slight gaps between the head and the body on a select few of NPCs. This can be fixed by opening the console via **'** then clicking the NPC in question, and lastly typing **"setnpcweight 35"** (or any number between 0 and 100).
 
-### A mini 30 picture album previewing some of the NPCs covered can be found [here](https://imgur.com/a/L4OkkHj).
+### A mini 40 picture album previewing some of the NPCs covered can be found [here](https://imgur.com/a/L4OkkHj).
    - **Please note** the I had three off-guide mods installed at the time of taking these pictures; HIMBO Outfit Refits, TMB Outfit Refits, and my own custom skin textures. Other than those, everything else is completely straight up from Septimus!
 
 # Installation
