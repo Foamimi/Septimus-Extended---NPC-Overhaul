@@ -25,7 +25,7 @@ First of all, we're going to right-click on the left side of MO2 and highlight t
 
    - Install it under the name **[NoDelete] [02] Northbourne NPCs of Falkreath Hold**
 
-3.) Download [Northbourne NPCs of the Rift](https://www.nexusmods.com/skyrimspecialedition/mods/42349?tab=files&file_id=204875).
+3.) Download [Northbourne NPCs of the Rift](https://www.nexusmods.com/skyrimspecialedition/mods/42349?tab=files&file_id=176484).
 
    - Install it under the name **[NoDelete] [03] Northbourne NPCs of the Rift**
 
