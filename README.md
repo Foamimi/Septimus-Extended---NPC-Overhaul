@@ -13,7 +13,9 @@ A **NEW SAVE is recommended**, just to ensure the weight changes from the variou
 
 # Installation
 
-First of all, we're going to right-click on the left side of MO2 and highlight the "All Mods" option, then click the dropdown of "Create separator above". We'll call it **[NoDelete] SEPTIMUS EXTENDED - NPC OVERHAULS**. All of the following mods will be installed under this separator, and the separator itself will go just below the separator called "THE DANGER ZONE".
+First of all, we're going to right-click on the left side of MO2 and highlight the "All Mods" option, then click the dropdown of "Create separator above". We'll call it **[NoDelete] SEPTIMUS EXTENDED - NPC OVERHAULS**. All of the following mods will be installed under this separator, and the separator itself will go just below the separator called "THE DANGER ZONE". 
+
+All the plugins going forward will be at the very bottom, **below all of the Septimus patches**. 
 
 ## Mods by Southpawe
 
@@ -178,7 +180,7 @@ Then vola you are almost DONE! Do the same steps for all of the NPC overhauls yo
 
 ### Snag the megapatch from here: [ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---NPC-Overhaul/blob/main/Septimus%20Extended%20-%20NPC%20Overhauls%20Megapatch.7z) ] ("View raw" button)
 
-Name it **[NoDelete] Septimus Extended - NPC Overhauls Megapatch**, and place it directly AFTER [NoDelete] [23] BeastHHBB - Player Character and NPC Replacer. 
+Name it **[NoDelete] Septimus Extended - NPC Overhauls Megapatch**, and place it directly AFTER [NoDelete] [23] BeastHHBB - Player Character and NPC Replacer. It's important that the following overhauls are at the very bottom on both the left and right side of MO2.
 ### Then you are SET! Thanks for sticking with it the entire process, enjoy your game!
 
 # Changelog
