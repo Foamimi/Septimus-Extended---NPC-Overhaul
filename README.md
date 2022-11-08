@@ -107,15 +107,15 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
   - Install it under the name **[NoDelete] [20] Valerica by rxkx22**
   - **IMPORTANT** - Double-click Valerica after installed in MO2 on the left side, and right-click the .esp and click **HIDE**.
 
-21.) Download [Bijin Family - Salt and Wind Textures SE](https://www.nexusmods.com/skyrimspecialedition/mods/44975?tab=files&file_id=183352). In the FOMOD, tick the boxes for Bijin NPCs, Bijin Warmaidens, Bijin Wives, Elisif, Serana, Valerica. On the next page, select 1.8. 
-  - Install it under the name **[NoDelete] [21] Bijin Family - Salt and Wind**
-
-22.) Download [Bijin Fixes (AIO or Separate)](https://www.nexusmods.com/skyrimspecialedition/mods/56047?tab=files&file_id=231243). In the FOMOD, tick the boxes under the "With USSEP" category, Bijin AIO. On the next page, tick Seranaholic 1.8. On the final page, tick Valerica 1.8.4.
+21.) Download [Bijin Fixes (AIO or Separate)](https://www.nexusmods.com/skyrimspecialedition/mods/56047?tab=files&file_id=231243). In the FOMOD, tick the boxes under the "With USSEP" category, Bijin AIO. On the next page, tick Seranaholic 1.8. On the final page, tick Valerica 1.8.4.
   - Install it under the name **[NoDelete] [21] Bijin Fixes (AIO)**
   - **IMPORTANT** - This contains the records from the past few plugins we just hid! Hence why we hid them. :)
 
-23.) Download [Bijin AIO UNP NeverNude Patch](https://www.nexusmods.com/skyrimspecialedition/mods/17661?tab=files&file_id=55994).
+22.) Download [Bijin AIO UNP NeverNude Patch](https://www.nexusmods.com/skyrimspecialedition/mods/17661?tab=files&file_id=55994).
   - Install it under the name **[NoDelete] [21] Bijin AIO UNP NeverNude Patch**
+
+23.) Download [Bijin Family - Salt and Wind Textures SE](https://www.nexusmods.com/skyrimspecialedition/mods/44975?tab=files&file_id=183352). In the FOMOD, tick the boxes for Bijin NPCs, Bijin Warmaidens, Bijin Wives, Elisif, Serana, Valerica. On the next page, select 1.8. 
+  - Install it under the name **[NoDelete] [21] Bijin Family - Salt and Wind**
 
 ## Mods by Mharlek1
 
