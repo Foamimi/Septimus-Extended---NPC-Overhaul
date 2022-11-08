@@ -2,11 +2,11 @@
 
 # Introduction
 
-Hello! This addon will integrate various NPC overhauls into the world of Septimus-ified Skyrim. From creators such as Tragedian, Southpawe, Mharlek1, Kalilies, Pandorable, and Rxkx22, these overhauls aim to flesh out the personality of each NPC through facelifts and enhancements. This will be a **manual process** with various steps involving downloading, compacting, ESLifiying, rearranging, etc. A provided megapatch will be available at the end of the guide. 
+Hello! This addon will integrate various NPC overhauls into the world of Septimus-ified Skyrim. From creators such as LalupK, Tragedian, Southpawe, Mharlek1, Kalilies, Pandorable, and Rxkx22, these overhauls aim to flesh out the personality of each NPC through facelifts and enhancements. This will be a **manual process** with various steps involving downloading, compacting, ESLifiying, rearranging, etc. A provided megapatch will be available at the end of the guide. 
 
 **It's essential to pay attention to load order for this branch! Otherwise, you'll run into mismatched faces and inconsistent AI behaviors!**
 
-A **NEW SAVE is recommended**, just to ensure the weight changes from the various overhauls are automatically applied. If you do the process on an **EXISTING SAVE** it's not the end of the world, but you may run into slight gaps between the head and the body on a select few of NPCs. This can be fixed by opening the console via **'** then clicking the NPC in question, and lastly typing **"setnpcweight 35"** (or any number between 0 and 100).
+A **NEW SAVE is recommended**, just to ensure the weight changes from the various overhauls are automatically applied. If you do the process on an **EXISTING SAVE** it's not the end of the world, but you may run into slight gaps between the head and the body on a select few of NPCs. This can be fixed by opening the console via **'** then clicking the NPC in question, and lastly typing **"setnpcweight 35"** (or any number between 0 and 100). Then type **"disable"** and immediately after **"enable"**
 
 ### A mini 40 picture album previewing some of the NPCs covered can be found [here](https://imgur.com/a/L4OkkHj).
    - **Please note** the I had three off-guide mods installed at the time of taking these pictures; HIMBO Outfit Refits, TMB Outfit Refits, and my own custom skin textures. Other than those, everything else is completely straight up from Septimus!
@@ -96,41 +96,44 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
   - Install it under the name **[NoDelete] [17] Bijin Wives**
   - **IMPORTANT** - Double-click Bijin Wives after installed in MO2 on the left side, and right-click the .esp and click **HIDE**.
 
-18.) Download [Bijin AIO SE for USSEP](https://www.nexusmods.com/skyrimspecialedition/mods/11287?tab=files&file_id=30611).
-  - Install it under the name **[NoDelete] [18] Bijin AIO for USSEP**
-  - **IMPORTANT** - This contains the records from the past three plugins we just hid! Hence why we hid them. :)
+18.) Download [Toccata Follower SE (With Elisif Replacer Option)](https://www.nexusmods.com/skyrimspecialedition/mods/12713?tab=files&file_id=37782). In the FOMOD, pick Do Not Install Toccatta Follower, Install Replacer, UNP Body, 2K.
+  - Install it under the name **[NoDelete] [18] Toccata as Elisif**
 
-19.) Download [Toccata Follower SE (With Elisif Replacer Option)](https://www.nexusmods.com/skyrimspecialedition/mods/12713?tab=files&file_id=37782). In the FOMOD, pick Do Not Install Toccatta Follower, Install Replacer, UNP Body, 2K.
-  - Install it under the name **[NoDelete] [19] Toccata as Elisif**
-
-20.) Download [Seranaholic by rxkx22 - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/13027?tab=files&file_id=256667). In the FOMOD, pick UNP Body, [c] Red Eye + Default weight 20, Human-style OR Vampire-style (doesn't matter which you pick on the last page).
-  - Install it under the name **[NoDelete] [20] Seranaholic by rxkx22**
+19.) Download [Seranaholic by rxkx22 - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/13027?tab=files&file_id=256667). In the FOMOD, pick UNP Body, [c] Red Eye + Default weight 20, Human-style OR Vampire-style (doesn't matter which you pick on the last page).
+  - Install it under the name **[NoDelete] [19] Seranaholic by rxkx22**
   - **IMPORTANT** - Double-click Seranaholic after installed in MO2 on the left side, and right-click the .esp and click **HIDE**.
 
-21.) Download [Valerica SSE](https://www.nexusmods.com/skyrimspecialedition/mods/13027?tab=files&file_id=170063). In the FOMOD, pick UNP Body, Red Eye, Black, Wrinkles.
-  - Install it under the name **[NoDelete] [21] Valerica by rxkx22**
+20.) Download [Valerica SSE](https://www.nexusmods.com/skyrimspecialedition/mods/13027?tab=files&file_id=170063). In the FOMOD, pick UNP Body, Red Eye, Black, Wrinkles.
+  - Install it under the name **[NoDelete] [20] Valerica by rxkx22**
   - **IMPORTANT** - Double-click Valerica after installed in MO2 on the left side, and right-click the .esp and click **HIDE**.
 
-22.) Download [Bijin Family - Salt and Wind Textures SE](https://www.nexusmods.com/skyrimspecialedition/mods/44975?tab=files&file_id=183352). In the FOMOD, tick the boxes for Bijin NPCs, Bijin Warmaidens, Bijin Wives, Elisif, Serana, Valerica. On the next page, select 1.8. 
-  - Install it under the name **[NoDelete] [22] Bijin Family - Salt and Wind**
+21.) Download [Bijin Family - Salt and Wind Textures SE](https://www.nexusmods.com/skyrimspecialedition/mods/44975?tab=files&file_id=183352). In the FOMOD, tick the boxes for Bijin NPCs, Bijin Warmaidens, Bijin Wives, Elisif, Serana, Valerica. On the next page, select 1.8. 
+  - Install it under the name **[NoDelete] [21] Bijin Family - Salt and Wind**
 
-23.) Download [Bijin Fixes (AIO or Separate)](https://www.nexusmods.com/skyrimspecialedition/mods/56047?tab=files&file_id=231243). In the FOMOD, tick the boxes under the "With USSEP" category, Bijin AIO. On the next page, tick Seranaholic 1.8. On the final page, tick Valerica 1.8.4.
-  - Install it under the name **[NoDelete] [22] Bijin Fixes (AIO)**
+22.) Download [Bijin Fixes (AIO or Separate)](https://www.nexusmods.com/skyrimspecialedition/mods/56047?tab=files&file_id=231243). In the FOMOD, tick the boxes under the "With USSEP" category, Bijin AIO. On the next page, tick Seranaholic 1.8. On the final page, tick Valerica 1.8.4.
+  - Install it under the name **[NoDelete] [21] Bijin Fixes (AIO)**
+  - **IMPORTANT** - This contains the records from the past few plugins we just hid! Hence why we hid them. :)
 
-24.) Download [Bijin AIO UNP NeverNude Patch](https://www.nexusmods.com/skyrimspecialedition/mods/17661?tab=files&file_id=55994).
-  - Install it under the name **[NoDelete] [22] Bijin AIO UNP NeverNude Patch**
+23.) Download [Bijin AIO UNP NeverNude Patch](https://www.nexusmods.com/skyrimspecialedition/mods/17661?tab=files&file_id=55994).
+  - Install it under the name **[NoDelete] [21] Bijin AIO UNP NeverNude Patch**
 
 ## Mods by Mharlek1
 
-25.) Download [BeastHHBB - Npc replacer and player](https://www.nexusmods.com/skyrimspecialedition/mods/38480?tab=files&file_id=289005). 
-  - Install it under the name **[NoDelete] [23] BeastHHBB - Player Character and NPC Replacer**
-  - **IMPORTANT** - The guide currently uses the "Player Only" version of this mod, and already comes with a plugin called **BeastHHBB.esp**. We'll want to find it on the right side of MO2 (around priority of 317ish), and drag it to the veryyyy bottom to **BELOW** **Toccata as Elisif**.
+24.) Download [BeastHHBB - Npc replacer and player](https://www.nexusmods.com/skyrimspecialedition/mods/38480?tab=files&file_id=289005). 
+  - Install it under the name **[NoDelete] [22] BeastHHBB - Player Character and NPC Replacer**
+  - **IMPORTANT** - The guide currently uses the "Player Only" version of this mod, and already comes with a plugin called **BeastHHBB.esp**. We'll want to find it on the right side of MO2 (around priority of 317ish), and drag it to the veryyyy bottom to **BELOW** **Valerica.esp**.
+
+## Mods by LalupK
+
+25.) Download [Lalup's NPCs - Creation Club](https://www.nexusmods.com/skyrimspecialedition/mods/77129?tab=files&file_id=327783) and [Lalup's NPCs - Creation Club - Salt and Wind](https://www.nexusmods.com/skyrimspecialedition/mods/75663?tab=files&file_id=330202). 
+  - Install the first mod under the name **[NoDelete] [23] Lalup's NPCs - Creation Club**
+  - Install the second mod under the name **[NoDelete] [23] Lalup's NPCs - Creation Club - Salt and Wind**
 
 ### Phew! If you've made it this far, then congrats! We're almost there!
 
 We should have our setup looking similar to this (you may be using a different MO2 theme than me, but that's okay it'll all work the same!):
 
-![Image 1](https://i.imgur.com/u8Z7pzW.png)
+![Image 1](https://i.imgur.com/qa5Q6DT.png)
 
 Now we're going to compact these overhauls so there's enough space to use them with Septimus. Don't worry, it's really easy! 
 
@@ -185,6 +188,12 @@ Name it **[NoDelete] Septimus Extended - NPC Overhauls Megapatch**, and place it
 
 # Changelog
 
-N/A - Version is at 1.0 as of now.
+v1.1
+   - Removed Bijin AIO for USSEP as it was redundant with Bijin Fixes (AIO or Separate).
+   - Re-numbered the overhauls to reflect removal.
+   - Added Lalup's NPCs - Creation Club
+   - Added Lalup's NPCs - Creation Club - Salt and Wind
+
 **Works with version 4.1.0 of Septimus.**
+**Updating works with existing saves.**
 
