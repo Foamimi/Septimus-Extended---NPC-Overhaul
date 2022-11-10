@@ -191,7 +191,7 @@ Name it **[NoDelete] Septimus Extended - NPC Overhauls Megapatch**, and place it
 v1.1
    - Removed Bijin AIO for USSEP as it was redundant with Bijin Fixes (AIO or Separate).
    - Re-numbered the overhauls to reflect removal.
-   - Added Lalup's NPCs - Creation Club
+   - Added Lalup's NPCs - Creation Club (be sure to compact this overhaul, too!)
    - Added Lalup's NPCs - Creation Club - Salt and Wind
 
 **Works with version 4.1.0 of Septimus.**
