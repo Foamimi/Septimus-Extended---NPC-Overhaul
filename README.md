@@ -188,6 +188,7 @@ Name it **[NoDelete] Septimus Extended - NPC Overhauls Megapatch**, and place it
 # Changelog
 
 v.1.1.1
+   - Removed Pandorable's NPCs - Dawnguard - Grey Face Fix as it was redundant with the new update
    - Updated Pandorable's NPCs - Dawnguard (be sure to re-compact if updating)
    - Updated the megapatch
 
