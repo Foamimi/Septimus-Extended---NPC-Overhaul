@@ -73,10 +73,9 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
   - Install the second mod under the name **[NoDelete] [12] Pandorable's Initiates - Warpaint Addon**
   - Install the third mod under the name **[NoDelete] [12] Pandorable's Initiates - Salt and Wind**
 
-13.) Download [Pandorable's NPCs - Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/24135?tab=files&file_id=84923), [Pandorable's NPCs - Dawnguard - Grey Face Fix](https://www.nexusmods.com/skyrimspecialedition/mods/24135?tab=files&file_id=84822), and [Pandorable's NPCs DG - Salt and Wind](https://www.nexusmods.com/skyrimspecialedition/mods/44975?tab=files&file_id=183356). 
+13.) Download [Pandorable's NPCs - Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/24135?tab=files&file_id=330570) and [Pandorable's NPCs DG - Salt and Wind](https://www.nexusmods.com/skyrimspecialedition/mods/44975?tab=files&file_id=183356). 
   - Install the first mod under the name **[NoDelete] [13] Pandorable's NPCs - Dawnguard**
-  - Install the second mod under the name **[NoDelete] [13] Pandorable's NPCs - Dawnguard - Grey Face Fix**
-  - Install the third mod under the name **[NoDelete] [13] Pandorable's NPCs - Dawnguard - Salt and Wind**
+  - Install the second mod under the name **[NoDelete] [13] Pandorable's NPCs - Dawnguard - Salt and Wind**
 
 14.) Download [Pandorable's NPCs - Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/30680?tab=files&file_id=114755) and [Pandorable's NPCs DB - Salt and Wind](https://www.nexusmods.com/skyrimspecialedition/mods/44975?tab=files&file_id=183355). Choose whatever warpaint options you like in the FOMOD, as they will not affect the final patch. At the end of the FOMOD, select the Yes option.
   - Install the first mod under the name **[NoDelete] [14] Pandorable's NPCs - Dragonborn**
@@ -181,18 +180,23 @@ Then vola you are almost DONE! Do the same steps for all of the NPC overhauls yo
 
 # Last Steps
 
-### Snag the megapatch from here: [ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---NPC-Overhaul/blob/main/Septimus%20Extended%20-%20NPC%20Overhauls%20Megapatch%20v1.1.7z) ] ("View raw" button)
+### Snag the megapatch from here: [ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---NPC-Overhaul/blob/main/Septimus%20Extended%20-%20NPC%20Overhauls%20Megapatch%20v1.1.1.7z) ] ("View raw" button)
 
 Name it **[NoDelete] Septimus Extended - NPC Overhauls Megapatch**, and place it directly AFTER [NoDelete] [23] BeastHHBB - Player Character and NPC Replacer. It's important that the following overhauls are at the very bottom on both the left and right side of MO2.
 ### Then you are SET! Thanks for sticking with it the entire process, enjoy your game!
 
 # Changelog
 
+v.1.1.1
+   - Updated Pandorable's NPCs - Dawnguard (be sure to re-compact if updating)
+   - Updated the megapatch
+
 v1.1
    - Removed Bijin AIO for USSEP as it was redundant with Bijin Fixes (AIO or Separate).
    - Re-numbered the overhauls to reflect removal.
    - Added Lalup's NPCs - Creation Club (be sure to compact this overhaul, too!)
    - Added Lalup's NPCs - Creation Club - Salt and Wind
+   - Updated the megapatch
 
 **Works with version 4.1.0 of Septimus.**
 **Updating works with existing saves.**
