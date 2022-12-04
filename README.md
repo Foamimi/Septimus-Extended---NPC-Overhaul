@@ -199,6 +199,6 @@ v1.1
    - Added Lalup's NPCs - Creation Club - Salt and Wind
    - Updated the megapatch
 
-**Works with version 4.1.0 of Septimus.**
+**Works with version 4.1.0+ of Septimus.**
 **Updating works with existing saves.**
 
