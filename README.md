@@ -186,7 +186,7 @@ Name it **[NoDelete] Septimus Extended - NPC Overhauls Megapatch**, and place it
 ### Then you are SET! Thanks for sticking with it the entire process, enjoy your game!
 
    - **Currently works with versions 4.1.0+ of Septimus.**
-   - **Currently works with [Septimus-Extended---LOTD Addon (OPEN BETA)](https://github.com/Foamimi/Septimus-Extended---LOTD/blob/master/README.md)
+   - **Currently works with [Septimus-Extended---LOTD Addon (OPEN BETA)](https://github.com/Foamimi/Septimus-Extended---LOTD/blob/master/README.md)**
    - **Updating works with existing saves.**
 
 # Changelog
