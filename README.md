@@ -185,11 +185,11 @@ Then vola you are almost DONE! Do the same steps for all of the NPC overhauls yo
 Name it **[NoDelete] Septimus Extended - NPC Overhauls Megapatch**, and place it directly AFTER [NoDelete] [23] BeastHHBB - Player Character and NPC Replacer. It's important that the following overhauls are at the very bottom on both the left and right side of MO2.
 ### Then you are SET! Thanks for sticking with it the entire process, enjoy your game!
 
+# Changelog
+
    - **Currently works with versions 4.1.0+ of Septimus.**
    - **Currently works with [Septimus-Extended---LOTD Addon (OPEN BETA)](https://github.com/Foamimi/Septimus-Extended---LOTD/blob/master/README.md)**
    - **Updating works with existing saves.**
-
-# Changelog
 
 v.1.1.1
    - Removed Pandorable's NPCs - Dawnguard - Grey Face Fix as it was redundant with the new update
