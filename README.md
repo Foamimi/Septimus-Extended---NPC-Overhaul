@@ -100,13 +100,11 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 
 19.) Download [Seranaholic by rxkx22 - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/13027?tab=files&file_id=256667). In the FOMOD, pick UNP Body, [c] Red Eye + Default weight 20, Human-style OR Vampire-style (doesn't matter which you pick on the last page).
   - Install it under the name **[NoDelete] [19] Seranaholic by rxkx22**
-  - **IMPORTANT** - Double-click Seranaholic after installed in MO2 on the left side, and right-click the .esp and click **HIDE**.
 
 20.) Download [Valerica SSE](https://www.nexusmods.com/skyrimspecialedition/mods/13027?tab=files&file_id=170063). In the FOMOD, pick UNP Body, Red Eye, Black, Wrinkles.
   - Install it under the name **[NoDelete] [20] Valerica by rxkx22**
-  - **IMPORTANT** - Double-click Valerica after installed in MO2 on the left side, and right-click the .esp and click **HIDE**.
 
-21.) Download [Bijin Fixes (AIO or Separate)](https://www.nexusmods.com/skyrimspecialedition/mods/56047?tab=files&file_id=231243). In the FOMOD, tick the boxes under the "With USSEP" category, Bijin AIO. On the next page, tick Seranaholic 1.8. On the final page, tick Valerica 1.8.4.
+21.) Download [Bijin Fixes (AIO or Separate)](https://www.nexusmods.com/skyrimspecialedition/mods/56047?tab=files&file_id=231243). In the FOMOD, tick the boxes under the "With USSEP" category, Bijin AIO. On the next page don't tick anything. On the final page, don't tick anything.
   - Install it under the name **[NoDelete] [21] Bijin Fixes (AIO)**
   - **IMPORTANT** - This contains the records from the past few plugins we just hid! Hence why we hid them. :)
 
@@ -180,7 +178,7 @@ Then vola you are almost DONE! Do the same steps for all of the NPC overhauls yo
 
 # Last Steps
 
-### Snag the megapatch from here: [ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---NPC-Overhaul/blob/main/Septimus%20Extended%20-%20NPC%20Overhauls%20Megapatch%20v1.1.1.7z) ] ("View raw" button)
+### Snag the megapatch from here: [ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---NPC-Overhaul/blob/main/Septimus%20Extended%20-%20NPC%20Overhauls%20Megapatch%20v1.2.1.7z) ] ("View raw" button)
 
 Name it **[NoDelete] Septimus Extended - NPC Overhauls Megapatch**, and place it directly AFTER [NoDelete] [23] BeastHHBB - Player Character and NPC Replacer. It's important that the following overhauls are at the very bottom on both the left and right side of MO2.
 
@@ -191,6 +189,10 @@ Name it **[NoDelete] Septimus Extended - NPC Overhauls Megapatch**, and place it
 
 # Changelog
 **Updating works with existing saves.**
+
+v.1.2.0
+   - Fixed Serana and Valerica's purple eyes. 
+**IMPORTANT** - If updating you'll need to reinstall Bijin Fixes (AIO or Separate) and ONLY tick the "With USSEP" option, then nothing else on the next 2 pages. Then you'll need to unhide the .esps from the Seranaholic and Valerica mods, then compact them as you did with the other overhauls. Install the new megapatch and you'll be good to go.
 
 v.1.1.1
    - Removed Pandorable's NPCs - Dawnguard - Grey Face Fix as it was redundant with the new update
