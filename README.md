@@ -192,7 +192,7 @@ Name it **[NoDelete] Septimus Extended - NPC Overhauls Megapatch**, and place it
 
 v.1.2.0
    - Fixed Serana and Valerica's purple eyes. 
-**IMPORTANT** - If updating you'll need to reinstall Bijin Fixes (AIO or Separate) and ONLY tick the "With USSEP" option, then nothing else on the next 2 pages. Then you'll need to unhide the .esps from the Seranaholic and Valerica mods, then compact them as you did with the other overhauls. Install the new megapatch and you'll be good to go.
+   - **IMPORTANT** - If updating you'll need to reinstall Bijin Fixes (AIO or Separate) and ONLY tick the "With USSEP" option, then nothing else on the next 2 pages. Then you'll need to unhide the .esps from the Seranaholic and Valerica mods, then compact them as you did with the other overhauls. Install the new megapatch and you'll be good to go.
 
 v.1.1.1
    - Removed Pandorable's NPCs - Dawnguard - Grey Face Fix as it was redundant with the new update
