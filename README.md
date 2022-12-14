@@ -192,7 +192,8 @@ Name it **[NoDelete] Septimus Extended - NPC Overhauls Megapatch**, and place it
 **Updating works with existing saves.**
 
 v.1.3.0
-   - Updated megapatch to work with 4.2.0 of Septimus.
+   - Updated megapatch to work with 4.2.0 of Septimus. 
+   - **IMPORTANT** - If updating, you have no extra steps! Just download the updated megapatch and you are set. <3
 
 v.1.2.0
    - Fixed Serana and Valerica's purple eyes. 
