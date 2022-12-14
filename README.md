@@ -178,27 +178,31 @@ Then vola you are almost DONE! Do the same steps for all of the NPC overhauls yo
 
 # Last Steps
 
-### Snag the megapatch from here: [ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---NPC-Overhaul/blob/main/Septimus%20Extended%20-%20NPC%20Overhauls%20Megapatch%20v1.2.1.7z) ] ("View raw" button)
+### Snag the megapatch from here: [ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---NPC-Overhaul/blob/main/Septimus%20Extended%20-%20NPC%20Overhauls%20Megapatch%20v1.3.0.7z) ] ("View raw" button)
 
 Name it **[NoDelete] Septimus Extended - NPC Overhauls Megapatch**, and place it directly AFTER [NoDelete] [23] BeastHHBB - Player Character and NPC Replacer. It's important that the following overhauls are at the very bottom on both the left and right side of MO2.
 
 ### Then you are SET! Thanks for sticking with it the entire process, enjoy your game!
 
-   - **Currently works with versions 4.1.0+ of Septimus.**
+   - **Currently works with version 4.2.0 of Septimus.**
    - **Currently works with [Septimus-Extended---LOTD Addon (OPEN BETA)](https://github.com/Foamimi/Septimus-Extended---LOTD/blob/master/README.md).**
    - **A patch for [Septimus-Extended - NPC Dialogue Addon](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/README.md) can be found here: [ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/Septimus%20Extended%20-%20NPC%20Dialogue%20Addon%20-%20NPC%20Overhaul%20Addon%20Patch.7z) ] ("View raw" button). All the mods in that addon need to load BEFORE this one on BOTH sides of MO2.**
 
 # Changelog
 **Updating works with existing saves.**
 
+v.1.3.0
+   - Updated megapatch to work with 4.2.0 of Septimus.
+
 v.1.2.0
    - Fixed Serana and Valerica's purple eyes. 
    - **IMPORTANT** - If updating you'll need to reinstall Bijin Fixes (AIO or Separate) and ONLY tick the "With USSEP" option, then nothing else on the next 2 pages. Then you'll need to unhide the .esps from the Seranaholic and Valerica mods, then compact them as you did with the other overhauls. Install the new megapatch and you'll be good to go.
+   - Updated megapatch
 
 v.1.1.1
    - Removed Pandorable's NPCs - Dawnguard - Grey Face Fix as it was redundant with the new update
    - Updated Pandorable's NPCs - Dawnguard (be sure to re-compact if updating)
-   - Updated the megapatch
+   - Updated megapatch
 
 v1.1
    - Removed Bijin AIO for USSEP as it was redundant with Bijin Fixes (AIO or Separate).
