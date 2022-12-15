@@ -184,7 +184,7 @@ Name it **[NoDelete] Septimus Extended - NPC Overhauls Megapatch**, and place it
 
 ### Then you are SET! Thanks for sticking with it the entire process, enjoy your game!
 
-   - **Currently works with version 4.2.0 of Septimus.**
+   - **Currently works with version 4.2.1 of Septimus.**
    - **Currently works with [Septimus-Extended---LOTD Addon (OPEN BETA)](https://github.com/Foamimi/Septimus-Extended---LOTD/blob/master/README.md).**
    - **A patch for [Septimus-Extended - NPC Dialogue Addon](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/README.md) can be found here: [ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/Septimus%20Extended%20-%20NPC%20Overhauls%20Addon%20-%20NPC%20Dialogue%20Patch%20v2.0.7z) ] ("View raw" button). All the mods in that addon need to load BEFORE this one on BOTH sides of MO2.**
 
@@ -192,7 +192,7 @@ Name it **[NoDelete] Septimus Extended - NPC Overhauls Megapatch**, and place it
 **Updating works with existing saves.**
 
 v.1.3.0
-   - Updated megapatch to work with 4.2.0 of Septimus. 
+   - Updated megapatch to work with 4.2.1 of Septimus. 
    - **IMPORTANT** - If updating, you have no extra steps! Just download the updated megapatch and you are set. <3
 
 v.1.2.0
