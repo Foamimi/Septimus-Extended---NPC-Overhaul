@@ -153,8 +153,7 @@ Now we'll be able to use SSEEdit (also known as xEdit) from the drop-down menu! 
 Right-click anywhere on the page and pick "Select None". Scroll down to the very bottom and **ONLY** select the NPC overhauls we're working with. 
 
 ![Image 5](https://i.imgur.com/vFC1RhS.png)
-![Image 5A](https://i.imgur.com/1H7GyJ2.png)
-  - I did not load in BeastHHBB for this image, but it doesn't matter in the end as it's already flagged as an ESL file and doesn't need to be compacted.
+![Image 5A](https://i.imgur.com/C6rfYZP.png)
 
 Once it's finished opening, click OK to get rid of the ModGroups message. So first, right-click on the plugin **Northbourne NPCs of Whiterun Hold**. Scroll down to the Compact FormIDs for ESL option and select it. 
 
@@ -178,19 +177,22 @@ Then vola you are almost DONE! Do the same steps for all of the NPC overhauls yo
 
 # Last Steps
 
-### Snag the megapatch from here: [ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---NPC-Overhaul/blob/main/Septimus%20Extended%20-%20NPC%20Overhauls%20Megapatch%20v1.3.0.7z) ] ("View raw" button)
+### Snag the megapatch from here: [ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---NPC-Overhaul/blob/main/Septimus%20Extended%20-%20NPC%20Overhauls%20Megapatch%20v1.3.1.7z) ] ("View raw" button)
 
 Name it **[NoDelete] Septimus Extended - NPC Overhauls Megapatch**, and place it directly AFTER [NoDelete] [23] BeastHHBB - Player Character and NPC Replacer. It's important that the following overhauls are at the very bottom on both the left and right side of MO2.
 
 ### Then you are SET! Thanks for sticking with it the entire process, enjoy your game!
 
    - **Currently works with version 4.2.1 of Septimus.**
-   - **Currently works with [Septimus-Extended---LOTD Addon (OPEN BETA)](https://github.com/Foamimi/Septimus-Extended---LOTD/blob/master/README.md).**
+   - **A patch for [Septimus-Extended---LOTD Addon (OPEN BETA)](https://github.com/Foamimi/Septimus-Extended---LOTD/blob/master/README.md) can be found here: [ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---NPC-Overhaul/blob/main/Septimus%20Extended%20-%20NPC%20Overhauls%20Megapatch%20-%20LOTD%20Patch.7z) ] ("View raw" button).**
    - **A patch for [Septimus-Extended - NPC Dialogue Addon](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/README.md) can be found here: [ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/Septimus%20Extended%20-%20NPC%20Overhauls%20Addon%20-%20NPC%20Dialogue%20Patch%20v2.0.7z) ] ("View raw" button). All the mods in that addon need to load BEFORE this one on BOTH sides of MO2.**
 
 # Changelog
 
 **IMPORTANT** - If updating Septimus (like from v.4.2.0 to 4.2.1 for example) your load order may become a bit funky on the right side of MO2. Luckily we numbered everything while installing, so the left side of MO2 should still be in tact, but to get everything back in position for the right side, I'd suggest disabling the entire NPC Overhaul addon, then re-enabling everything again one by one. This takes a hot second, but I find this method to be the fastest (for me anyway!).
+
+v.1.4.0
+   - Updated megapatch
 
 v.1.3.0
    - Updated megapatch to work with 4.2.1 of Septimus. 
