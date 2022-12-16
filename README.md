@@ -187,6 +187,18 @@ Name it **[NoDelete] Septimus Extended - NPC Overhauls Megapatch**, and place it
    - **A patch for [Septimus-Extended---LOTD Addon (OPEN BETA)](https://github.com/Foamimi/Septimus-Extended---LOTD/blob/master/README.md) can be found here: [ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---NPC-Overhaul/blob/main/Septimus%20Extended%20-%20NPC%20Overhauls%20Megapatch%20-%20LOTD%20Patch.7z) ] ("View raw" button).**
    - **A patch for [Septimus-Extended - NPC Dialogue Addon](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/README.md) can be found here: [ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---NPC-Overhaul/blob/main/Septimus%20Extended%20-%20NPC%20Overhauls%20Megapatch%20-%20NPC%20Dialogue%20Patch.7z) ] ("View raw" button). All the mods in that addon need to load BEFORE this one on BOTH sides of MO2.**
 
+**Load order for the patches is like so;**
+   - Septimus
+   - Danger Zone
+   - NPC Dialogue Addon (if installed)
+   - NPC Dialogue Addon Megapatch (if installed)
+   - LOTD Addon (if installed)
+   - LOTD Addon Megapatch (if installed)
+   - NPC Overhaul
+   - NPC Overhaul Megapatch
+   - NPC Overhaul Megapatch - NPC Dialogue Addon Patch (if installed)
+   - NPC Overhaul Megapatch - LOTD Addon Patch (if installed)
+
 # Changelog
 
 **IMPORTANT** - If updating Septimus (like from v.4.2.0 to 4.2.1 for example) your load order may become a bit funky on the right side of MO2. Luckily we numbered everything while installing, so the left side of MO2 should still be in tact, but to get everything back in position for the right side, I'd suggest disabling the entire NPC Overhaul addon, then re-enabling everything again one by one. This takes a hot second, but I find this method to be the fastest (for me anyway!).
