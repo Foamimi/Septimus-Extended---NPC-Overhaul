@@ -19,110 +19,110 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 
 ## Mods by Southpawe
 
-1.) Download [Northbourne NPCs of Whiterun Hold](https://www.nexusmods.com/skyrimspecialedition/mods/35404?tab=files&file_id=211849).
+1.) Download [Northbourne NPCs of Whiterun Hold](https://www.nexusmods.com/skyrimspecialedition/mods/35404?tab=files&file_id=211849&nmm=1).
 
    - Install it under the name **[NoDelete] [01] Northbourne NPCs of Whiterun Hold**
 
-2.) Download [Northbourne NPCs of Falkreath Hold](https://www.nexusmods.com/skyrimspecialedition/mods/37528?tab=files&file_id=204875).
+2.) Download [Northbourne NPCs of Falkreath Hold](https://www.nexusmods.com/skyrimspecialedition/mods/37528?tab=files&file_id=204875&nmm=1).
 
    - Install it under the name **[NoDelete] [02] Northbourne NPCs of Falkreath Hold**
 
-3.) Download [Northbourne NPCs of the Rift](https://www.nexusmods.com/skyrimspecialedition/mods/42349?tab=files&file_id=176484).
+3.) Download [Northbourne NPCs of the Rift](https://www.nexusmods.com/skyrimspecialedition/mods/42349?tab=files&file_id=176484&nmm=1).
 
    - Install it under the name **[NoDelete] [03] Northbourne NPCs of the Rift**
 
-4.) Download [Northbourne NPCs of Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/43413?tab=files&file_id=174870).
+4.) Download [Northbourne NPCs of Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/43413?tab=files&file_id=174870&nmm=1).
 
    - Install it under the name **[NoDelete] [04] Northbourne NPCs of Winterhold**
 
-5.) Download [Northbourne NPCs of Haafingar](https://www.nexusmods.com/skyrimspecialedition/mods/48481?tab=files&file_id=197853) and [Patch for Xander's Missing Hair Textures](https://www.nexusmods.com/skyrimspecialedition/mods/48481?tab=files&file_id=253906).
+5.) Download [Northbourne NPCs of Haafingar](https://www.nexusmods.com/skyrimspecialedition/mods/48481?tab=files&file_id=197853&nmm=1) and [Patch for Xander's Missing Hair Textures](https://www.nexusmods.com/skyrimspecialedition/mods/48481?tab=files&file_id=253906&nmm=1).
 
   - Install the first file under the name **[NoDelete] [05] Northbourne NPCs of Haafingar**
   - Install the second under the name **[NoDelete] [05] Northbourne NPCs of Haafingar - Hair Fix**
 
-6.) Download [Northbourne NPCs of Hjaalmarch](https://www.nexusmods.com/skyrimspecialedition/mods/62213?tab=files&file_id=257876).
+6.) Download [Northbourne NPCs of Hjaalmarch](https://www.nexusmods.com/skyrimspecialedition/mods/62213?tab=files&file_id=257876&nmm=1).
   - Install it under the name **[NoDelete] [06] Northbourne NPCs of Hjaalmarch**
 
 ## Mods by Tragedian
 
-7.) Download [Dapper Deliveries - A Courier Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/64057?tab=files&file_id=266435). In the FOMOD, select Standard Version and Skyrim SE.
+7.) Download [Dapper Deliveries - A Courier Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/64057?tab=files&file_id=266435&nmm=1). In the FOMOD, select Standard Version and Skyrim SE.
   - Install it under the name **[NoDelete] [07] Dapper Delieveries - A Courier Overhaul**
 
 ## Mods by Kalilies
 
-8.) Download [Kalilies NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/30247?tab=files&file_id=186274) and [Kalilies NPCs - Salt and Wind retexture](https://www.nexusmods.com/skyrimspecialedition/mods/44335?tab=files&file_id=186946). For the first part of the FOMOD, choose UNP body texture options. Do not tick the Non USSEP option. Choose whatever warpaint options you like in the remainder of the FOMOD, as they will not affect the final patch.
+8.) Download [Kalilies NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/30247?tab=files&file_id=186274&nmm=1) and [Kalilies NPCs - Salt and Wind retexture](https://www.nexusmods.com/skyrimspecialedition/mods/44335?tab=files&file_id=186946&nmm=1). For the first part of the FOMOD, choose UNP body texture options. Do not tick the Non USSEP option. Choose whatever warpaint options you like in the remainder of the FOMOD, as they will not affect the final patch.
   - Install the first mod under the name **[NoDelete] [08] Kalilies NPCs**
   - Install the second mod under the name **[NoDelete] [08] Kalilies NPCs - Salt and Wind**
 
 ## Mods by Pandorable
 
-9.) Download [Pandorable's NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/19012?tab=files&file_id=229960) and [Pandorable's NPCs - Salt and Wind](https://www.nexusmods.com/skyrimspecialedition/mods/44975?tab=files&file_id=185125). For the first part of the FOMOD, select the USLEEP option. Choose whatever warpaint options you like in the rest of the FOMOD, as they will not affect the final patch.
+9.) Download [Pandorable's NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/19012?tab=files&file_id=229960&nmm=1) and [Pandorable's NPCs - Salt and Wind](https://www.nexusmods.com/skyrimspecialedition/mods/44975?tab=files&file_id=185125&nmm=1). For the first part of the FOMOD, select the USLEEP option. Choose whatever warpaint options you like in the rest of the FOMOD, as they will not affect the final patch.
   - Install the first mod under the name **[NoDelete] [09] Pandorable's NPCs**
   - Install the second mod under the name **[NoDelete] [09] Pandorable's NPCs - Salt and Wind**
    
-10.) Download [Pandorable's NPCs - males](https://www.nexusmods.com/skyrimspecialedition/mods/42043?tab=files&file_id=248825) and [Pandorable's Males - Salt and Wind retexture](https://www.nexusmods.com/skyrimspecialedition/mods/44336?tab=files&file_id=182831). Choose whatever warpaint options you like in the FOMOD, as they will not affect the final patch. At the end of the FOMOD, select the I have USSEP option.
+10.) Download [Pandorable's NPCs - males](https://www.nexusmods.com/skyrimspecialedition/mods/42043?tab=files&file_id=248825&nmm=1) and [Pandorable's Males - Salt and Wind retexture](https://www.nexusmods.com/skyrimspecialedition/mods/44336?tab=files&file_id=182831&nmm=1). Choose whatever warpaint options you like in the FOMOD, as they will not affect the final patch. At the end of the FOMOD, select the I have USSEP option.
   - Install the first mod under the name **[NoDelete] [10] Pandorable's NPCs - Males**
   - Install the second mod under the name **[NoDelete] [10] Pandorable's NPCs - Males - Salt and Wind**
 
-11.) Download [Pandorable's NPCs - males 2](https://www.nexusmods.com/skyrimspecialedition/mods/50617?tab=files&file_id=248800) and [Pandorable's NPCs - Males 2 - Salt and Wind](https://www.nexusmods.com/skyrimspecialedition/mods/75663?tab=files&file_id=317376). Choose whatever warpaint options you like in the FOMOD, as they will not affect the final patch. At the end of the FOMOD, select the Yes option.
+11.) Download [Pandorable's NPCs - males 2](https://www.nexusmods.com/skyrimspecialedition/mods/50617?tab=files&file_id=248800&nmm=1) and [Pandorable's NPCs - Males 2 - Salt and Wind](https://www.nexusmods.com/skyrimspecialedition/mods/75663?tab=files&file_id=317376&nmm=1). Choose whatever warpaint options you like in the FOMOD, as they will not affect the final patch. At the end of the FOMOD, select the Yes option.
   - Install the first mod under the name **[NoDelete] [11] Pandorable's NPCs - Males 2**
   - Install the second mod under the name **[NoDelete] [11] Pandorable's NPCs - Males 2 - Salt and Wind**
 
-12.) Download [Pandorable's Initiates](https://www.nexusmods.com/skyrimspecialedition/mods/30665?tab=files&file_id=126299), [Pandorable's Initiates - Warpaint Addon](https://www.nexusmods.com/skyrimspecialedition/mods/30665?tab=files&file_id=114611), and [Pandorable's Initiates - Salt and Wind](https://www.nexusmods.com/skyrimspecialedition/mods/75663?tab=files&file_id=317371).
+12.) Download [Pandorable's Initiates](https://www.nexusmods.com/skyrimspecialedition/mods/30665?tab=files&file_id=126299&nmm=1), [Pandorable's Initiates - Warpaint Addon](https://www.nexusmods.com/skyrimspecialedition/mods/30665?tab=files&file_id=114611&nmm=1), and [Pandorable's Initiates - Salt and Wind](https://www.nexusmods.com/skyrimspecialedition/mods/75663?tab=files&file_id=317371&nmm=1).
   - Install the first mod under the name **[NoDelete] [12] Pandorable's Initiates**
   - Install the second mod under the name **[NoDelete] [12] Pandorable's Initiates - Warpaint Addon**
   - Install the third mod under the name **[NoDelete] [12] Pandorable's Initiates - Salt and Wind**
 
-13.) Download [Pandorable's NPCs - Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/24135?tab=files&file_id=330570) and [Pandorable's NPCs DG - Salt and Wind](https://www.nexusmods.com/skyrimspecialedition/mods/44975?tab=files&file_id=183356). 
+13.) Download [Pandorable's NPCs - Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/24135?tab=files&file_id=330570&nmm=1) and [Pandorable's NPCs DG - Salt and Wind](https://www.nexusmods.com/skyrimspecialedition/mods/44975?tab=files&file_id=183356&nmm=1). 
   - Install the first mod under the name **[NoDelete] [13] Pandorable's NPCs - Dawnguard**
   - Install the second mod under the name **[NoDelete] [13] Pandorable's NPCs - Dawnguard - Salt and Wind**
 
-14.) Download [Pandorable's NPCs - Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/30680?tab=files&file_id=114755) and [Pandorable's NPCs DB - Salt and Wind](https://www.nexusmods.com/skyrimspecialedition/mods/44975?tab=files&file_id=183355). Choose whatever warpaint options you like in the FOMOD, as they will not affect the final patch. At the end of the FOMOD, select the Yes option.
+14.) Download [Pandorable's NPCs - Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/30680?tab=files&file_id=114755&nmm=1) and [Pandorable's NPCs DB - Salt and Wind](https://www.nexusmods.com/skyrimspecialedition/mods/44975?tab=files&file_id=183355&nmm=1). Choose whatever warpaint options you like in the FOMOD, as they will not affect the final patch. At the end of the FOMOD, select the Yes option.
   - Install the first mod under the name **[NoDelete] [14] Pandorable's NPCs - Dragonborn**
   - Install the second mod under the name **[NoDelete] [14] Pandorable's NPCs - Dragonborn - Salt and Wind**
 
 ## Mods by Rxkx22
 
-15.) Download [Bijin Warmaidens SE](https://www.nexusmods.com/skyrimspecialedition/mods/1825?tab=files&file_id=22452). In the FOMOD, select ALL-IN-ONE, Wrinkles, UNP Body.
+15.) Download [Bijin Warmaidens SE](https://www.nexusmods.com/skyrimspecialedition/mods/1825?tab=files&file_id=22452&nmm=1). In the FOMOD, select ALL-IN-ONE, Wrinkles, UNP Body.
   - Install it under the name **[NoDelete] [15] Bijin Warmaidens**
   - **IMPORTANT** - Double-click Bijin Warmaidens after installed in MO2 on the left side, and right-click the .esp and click **HIDE**.
 
-16.) Download [Bijin NPCs SE](https://www.nexusmods.com/skyrimspecialedition/mods/11287?tab=files&file_id=30612). In the FOMOD, select All in one, Vanilla based, Wrinkles, Wrinkles, With wrinkle, UNP Body.
+16.) Download [Bijin NPCs SE](https://www.nexusmods.com/skyrimspecialedition/mods/11287?tab=files&file_id=30612&nmm=1). In the FOMOD, select All in one, Vanilla based, Wrinkles, Wrinkles, With wrinkle, UNP Body.
   - Install it under the name **[NoDelete] [16] Bijin NPCs**
   - **IMPORTANT** - Double-click Bijin NPCs after installed in MO2 on the left side, and right-click the .esp and click **HIDE**.
 
-17.) Download [Bijin Wives SE](https://www.nexusmods.com/skyrimspecialedition/mods/11247?tab=files&file_id=30461). In the FOMOD, select ALL IN ONE and UNP Body.
+17.) Download [Bijin Wives SE](https://www.nexusmods.com/skyrimspecialedition/mods/11247?tab=files&file_id=30461&nmm=1). In the FOMOD, select ALL IN ONE and UNP Body.
   - Install it under the name **[NoDelete] [17] Bijin Wives**
   - **IMPORTANT** - Double-click Bijin Wives after installed in MO2 on the left side, and right-click the .esp and click **HIDE**.
 
-18.) Download [Toccata Follower SE (With Elisif Replacer Option)](https://www.nexusmods.com/skyrimspecialedition/mods/12713?tab=files&file_id=37782). In the FOMOD, pick Do Not Install Toccatta Follower, Install Replacer, UNP Body, 2K.
+18.) Download [Toccata Follower SE (With Elisif Replacer Option)](https://www.nexusmods.com/skyrimspecialedition/mods/12713?tab=files&file_id=37782&nmm=1). In the FOMOD, pick Do Not Install Toccatta Follower, Install Replacer, UNP Body, 2K.
   - Install it under the name **[NoDelete] [18] Toccata as Elisif**
 
-19.) Download [Seranaholic by rxkx22 - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/13027?tab=files&file_id=256667). In the FOMOD, pick UNP Body, [c] Red Eye + Default weight 20, Human-style OR Vampire-style (doesn't matter which you pick on the last page).
+19.) Download [Seranaholic by rxkx22 - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/13027?tab=files&file_id=256667&nmm=1&nmm=1). In the FOMOD, pick UNP Body, [c] Red Eye + Default weight 20, Human-style OR Vampire-style (doesn't matter which you pick on the last page).
   - Install it under the name **[NoDelete] [19] Seranaholic by rxkx22**
 
-20.) Download [Valerica SSE](https://www.nexusmods.com/skyrimspecialedition/mods/13027?tab=files&file_id=170063). In the FOMOD, pick UNP Body, Red Eye, Black, Wrinkles.
+20.) Download [Valerica SSE](https://www.nexusmods.com/skyrimspecialedition/mods/13027?tab=files&file_id=170063&nmm=1&nmm=1). In the FOMOD, pick UNP Body, Red Eye, Black, Wrinkles.
   - Install it under the name **[NoDelete] [20] Valerica by rxkx22**
 
-21.) Download [Bijin Fixes (AIO or Separate)](https://www.nexusmods.com/skyrimspecialedition/mods/56047?tab=files&file_id=231243). In the FOMOD, tick the boxes under the "With USSEP" category, Bijin AIO. On the next page don't tick anything. On the final page, don't tick anything.
+21.) Download [Bijin Fixes (AIO or Separate)](https://www.nexusmods.com/skyrimspecialedition/mods/56047?tab=files&file_id=231243&nmm=1). In the FOMOD, under the "With USSEP" category, tick "Bijin AIO." Don't tick the individual Bijin patches, as the AIO will cover the fixes from those options. On the next page don't tick anything. On the final page, don't tick anything.
   - Install it under the name **[NoDelete] [21] Bijin Fixes (AIO)**
   - **IMPORTANT** - This contains the records from the past few plugins we just hid! Hence why we hid them. :)
 
-22.) Download [Bijin AIO UNP NeverNude Patch](https://www.nexusmods.com/skyrimspecialedition/mods/17661?tab=files&file_id=55994).
+22.) Download [Bijin AIO UNP NeverNude Patch](https://www.nexusmods.com/skyrimspecialedition/mods/17661?tab=files&file_id=55994&nmm=1).
   - Install it under the name **[NoDelete] [21] Bijin AIO UNP NeverNude Patch**
 
-23.) Download [Bijin Family - Salt and Wind Textures SE](https://www.nexusmods.com/skyrimspecialedition/mods/44975?tab=files&file_id=183352). In the FOMOD, tick the boxes for Bijin NPCs, Bijin Warmaidens, Bijin Wives, Elisif, Serana, Valerica. On the next page, select 1.8. 
+23.) Download [Bijin Family - Salt and Wind Textures SE](https://www.nexusmods.com/skyrimspecialedition/mods/44975?tab=files&file_id=183352&nmm=1). In the FOMOD, tick the boxes for Bijin NPCs, Bijin Warmaidens, Bijin Wives, Elisif, Serana, Valerica. On the next page, select 1.8. 
   - Install it under the name **[NoDelete] [21] Bijin Family - Salt and Wind**
 
 ## Mods by Mharlek1
 
-24.) Download [BeastHHBB - Npc replacer and player](https://www.nexusmods.com/skyrimspecialedition/mods/38480?tab=files&file_id=289005). 
+24.) Download [BeastHHBB - Npc replacer and player](https://www.nexusmods.com/skyrimspecialedition/mods/38480?tab=files&file_id=289005&nmm=1). 
   - Install it under the name **[NoDelete] [22] BeastHHBB - Player Character and NPC Replacer**
   - **IMPORTANT** - The guide currently uses the "Player Only" version of this mod, and already comes with a plugin called **BeastHHBB.esp**. We'll want to find it on the right side of MO2 (around priority of 317ish), and drag it to the veryyyy bottom to **BELOW** **Valerica.esp**.
 
 ## Mods by LalupK
 
-25.) Download [Lalup's NPCs - Creation Club](https://www.nexusmods.com/skyrimspecialedition/mods/77129?tab=files&file_id=327783) and [Lalup's NPCs - Creation Club - Salt and Wind](https://www.nexusmods.com/skyrimspecialedition/mods/75663?tab=files&file_id=330202). In the FOMOD, de-select all of the options so nothing is ticked.
+25.) Download [Lalup's NPCs - Creation Club](https://www.nexusmods.com/skyrimspecialedition/mods/77129?tab=files&file_id=327783&nmm=1) and [Lalup's NPCs - Creation Club - Salt and Wind](https://www.nexusmods.com/skyrimspecialedition/mods/75663?tab=files&file_id=330202&nmm=1). In the FOMOD, de-select all of the options so nothing is ticked.
   - Install the first mod under the name **[NoDelete] [23] Lalup's NPCs - Creation Club**
   - Install the second mod under the name **[NoDelete] [23] Lalup's NPCs - Creation Club - Salt and Wind**
 
