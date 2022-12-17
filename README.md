@@ -179,7 +179,7 @@ Then vola you are almost DONE! Do the same steps for all of the NPC overhauls yo
 
 ### Snag the megapatch from here: [ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---NPC-Overhaul/blob/main/Septimus%20Extended%20-%20NPC%20Overhauls%20Megapatch%20v1.3.1.7z) ] ("View raw" button)
 
-Name it **[NoDelete] Septimus Extended - NPC Overhauls Megapatch**, and place it directly AFTER [NoDelete] [23] BeastHHBB - Player Character and NPC Replacer. It's important that the following overhauls are at the very bottom on both the left and right side of MO2.
+Name it **[NoDelete] Septimus Extended - NPC Overhauls Megapatch**, and place it directly AFTER [NoDelete] [23] Lalup's NPCs - Creation Club - Salt and Wind. It's important that the following overhauls are at the very bottom on both the left and right side of MO2.
 
 ### Then you are SET! Thanks for sticking with it the entire process, enjoy your game!
 
