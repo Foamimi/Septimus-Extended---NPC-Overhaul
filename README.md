@@ -17,7 +17,7 @@ A **NEW SAVE is recommended**, just to ensure the weight changes from the variou
 
 First of all, we're going to right-click on the left side of MO2 and highlight the "All Mods" option, then click the dropdown of "Create separator above". We'll call it **[NoDelete] SEPTIMUS EXTENDED - NPC OVERHAULS**. All of the following mods will be installed under this separator, and the separator itself will go just below the separator called "THE DANGER ZONE". 
 
-All the plugins going forward will be at the very bottom, **below all of the Septimus patches**. 
+All the plugins going forward will be at the very bottom, **below all of the Septimus patches** and below the **Occlusion.esp**.
 
 ## Mods by Southpawe
 
