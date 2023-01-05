@@ -121,7 +121,7 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 
 24.) Download [BeastHHBB - Npc replacer and player](https://www.nexusmods.com/skyrimspecialedition/mods/38480?tab=files&file_id=346839&nmm=1). 
   - Install it under the name **[NoDelete] [22] BeastHHBB - Player Character and NPC Replacer**
-  - **IMPORTANT** - The guide currently uses the "Player Only" version of this mod, and already comes with a plugin called **BeastHHBB.esp**. We'll want to find it on the right side of MO2, and drag it to the veryyyy bottom to **BELOW** **Valerica.esp**.
+  - **IMPORTANT** - The guide currently uses the "Player Only" version of this mod, and already comes with a plugin called **BeastHHBB.esp**. We'll want to find it on the right side of MO2, and drag it to the veryyyy bottom to **BELOW** **Bijin AIO.esp**.
 
 ## Mods by LalupK
 
