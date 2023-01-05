@@ -125,7 +125,7 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 
 ## Mods by LalupK
 
-25.) Download [Lalup's NPCs - Creation Club](https://www.nexusmods.com/skyrimspecialedition/mods/77129?tab=files&file_id=327783&nmm=1) and [Lalup's NPCs - Creation Club - Salt and Wind](https://www.nexusmods.com/skyrimspecialedition/mods/75663?tab=files&file_id=330202&nmm=1). In the FOMOD, de-select all of the options so nothing is ticked.
+25.) Download [Lalup's NPCs - Creation Club](https://www.nexusmods.com/skyrimspecialedition/mods/77129?tab=files&file_id=345131&nmm=1) and [Lalup's NPCs - Creation Club - Salt and Wind](https://www.nexusmods.com/skyrimspecialedition/mods/75663?tab=files&file_id=330202&nmm=1). In the FOMOD, select Next, tick the Skyrim Extended Cut - Saints and Seducers option and select Next, don't tick any of the patches and press Install.
   - Install the first mod under the name **[NoDelete] [23] Lalup's NPCs - Creation Club**
   - Install the second mod under the name **[NoDelete] [23] Lalup's NPCs - Creation Club - Salt and Wind**
 
