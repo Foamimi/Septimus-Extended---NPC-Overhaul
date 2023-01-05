@@ -105,6 +105,9 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
   - Install it under the name **[NoDelete] [20] Valerica by rxkx22**
 
 21.) Download [Bijin Fixes (AIO or Separate)](https://www.nexusmods.com/skyrimspecialedition/mods/56047?tab=files&file_id=231243&nmm=1). In the FOMOD, under the "With USSEP" category, tick "Bijin AIO." Don't tick the individual Bijin patches, as the AIO will cover the fixes from those options. On the next page don't tick anything. On the final page, don't tick anything.
+
+![Image 0](https://i.imgur.com/ddEyf4m.png)
+
   - Install it under the name **[NoDelete] [21] Bijin Fixes (AIO)**
   - **IMPORTANT** - This contains the records from the past few plugins we just hid! Hence why we hid them. :)
 
