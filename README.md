@@ -11,13 +11,13 @@ Hello! This addon will integrate various NPC overhauls into the world of Septimu
 A **NEW SAVE is recommended**, just to ensure the weight changes from the various overhauls are automatically applied. If you do the process on an **EXISTING SAVE** it's not the end of the world, but you may run into slight gaps between the head and the body on a select few of NPCs. This can be fixed by opening the console via **'** then clicking the NPC in question, and lastly typing **"setnpcweight 35"** (or any number between 0 and 100). Then type **"disable"** and immediately after **"enable"**.
 
 ### A mini 50 picture album previewing some of the NPCs covered can be found [here](https://imgur.com/a/L4OkkHj).
-   - **Please note** the I had three off-guide mods installed at the time of taking these pictures; HIMBO Outfit Refits, TMB Outfit Refits, and my own custom skin textures. Other than those, everything else is completely straight up from Septimus!
+   - **Please note** the I had four off-guide mods installed at the time of taking these pictures; HIMBO Outfit Refits, TMB Outfit Refits, Sforzinda's Recolours, and my own custom skin textures. Other than those, everything else is completely straight up from Septimus!
 
 # Installation
 
 First of all, we're going to right-click on the left side of MO2 and highlight the "All Mods" option, then click the dropdown of "Create separator above". We'll call it **[NoDelete] SEPTIMUS EXTENDED - NPC OVERHAULS**. All of the following mods will be installed under this separator, and the separator itself will go just below the separator called "THE DANGER ZONE". 
 
-All the plugins going forward will be at the very bottom, **below all of the Septimus patches** and below the **Occlusion.esp**.
+All the plugins going forward will be at the very bottom, **BELOW all of the Septimus patches** and **BELOW the Occlusion.esp**.
 
 ## Mods by Southpawe
 
