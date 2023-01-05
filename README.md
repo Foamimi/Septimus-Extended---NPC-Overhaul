@@ -87,16 +87,16 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
   - Install it under the name **[NoDelete] [15] Bijin Warmaidens**
   - **IMPORTANT** - Double-click Bijin Warmaidens after installed in MO2 on the left side, and right-click the .esp and click **HIDE**.
 
-16.) Download [Bijin NPCs SE](https://www.nexusmods.com/skyrimspecialedition/mods/11287?tab=files&file_id=30612&nmm=1). In the FOMOD, select All in one, Vanilla based, Wrinkles, Wrinkles, With wrinkle, UNP Body.
-  - Install it under the name **[NoDelete] [16] Bijin NPCs**
+16.) Download [Bijin Mjoll Haircut](https://www.nexusmods.com/skyrim/mods/108337?tab=files&file_id=1000339091&nmm=1).
+  - Install it under the name **[NoDelete] [16] Bijin Warmaidens - Mjoll Haircut**
+
+17.) Download [Bijin NPCs SE](https://www.nexusmods.com/skyrimspecialedition/mods/11287?tab=files&file_id=30612&nmm=1). In the FOMOD, select All in one, Vanilla based, Wrinkles, Wrinkles, With wrinkle, UNP Body.
+  - Install it under the name **[NoDelete] [17] Bijin NPCs**
   - **IMPORTANT** - Double-click Bijin NPCs after installed in MO2 on the left side, and right-click the .esp and click **HIDE**.
 
-17.) Download [Bijin Wives SE](https://www.nexusmods.com/skyrimspecialedition/mods/11247?tab=files&file_id=30461&nmm=1). In the FOMOD, select ALL IN ONE and UNP Body.
-  - Install it under the name **[NoDelete] [17] Bijin Wives**
+18.) Download [Bijin Wives SE](https://www.nexusmods.com/skyrimspecialedition/mods/11247?tab=files&file_id=30461&nmm=1). In the FOMOD, select ALL IN ONE and UNP Body.
+  - Install it under the name **[NoDelete] [18] Bijin Wives**
   - **IMPORTANT** - Double-click Bijin Wives after installed in MO2 on the left side, and right-click the .esp and click **HIDE**.
-
-18.) Download [Toccata Follower SE (With Elisif Replacer Option)](https://www.nexusmods.com/skyrimspecialedition/mods/12713?tab=files&file_id=37782&nmm=1). In the FOMOD, pick Do Not Install Toccatta Follower, Install Replacer, UNP Body, 2K.
-  - Install it under the name **[NoDelete] [18] Toccata as Elisif**
 
 19.) Download [Seranaholic by rxkx22 - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/13027?tab=files&file_id=256667&nmm=1&nmm=1). In the FOMOD, pick UNP Body, [c] Red Eye + Default weight 20, Human-style OR Vampire-style (doesn't matter which you pick on the last page).
   - Install it under the name **[NoDelete] [19] Seranaholic by rxkx22**
