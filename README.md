@@ -114,7 +114,7 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 22.) Download [Bijin AIO UNP NeverNude Patch](https://www.nexusmods.com/skyrimspecialedition/mods/17661?tab=files&file_id=55994&nmm=1).
   - Install it under the name **[NoDelete] [21] Bijin AIO UNP NeverNude Patch**
 
-23.) Download [Bijin Family - Salt and Wind Textures SE](https://www.nexusmods.com/skyrimspecialedition/mods/44975?tab=files&file_id=183352&nmm=1). In the FOMOD, tick the boxes for Bijin NPCs, Bijin Warmaidens, Bijin Wives, Elisif, Serana, Valerica. On the next page, select 1.8. 
+23.) Download [Bijin Family - Salt and Wind Textures SE](https://www.nexusmods.com/skyrimspecialedition/mods/44975?tab=files&file_id=183352&nmm=1). In the FOMOD, tick the boxes for Bijin NPCs, Bijin Warmaidens, Bijin Wives, Serana, Valerica. On the next page, select 1.8. 
   - Install it under the name **[NoDelete] [21] Bijin Family - Salt and Wind**
 
 ## Mods by Mharlek1
