@@ -143,11 +143,11 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 **My theme of MO2 may be different than yours, but that's okay it'll all work the same!**
    - Here's how it should look on the **left side of MO2**:
 
-![Image 1]()
+![Image 1](https://i.imgur.com/vAvcA1i.png)
 
    - Then here's how it should look on the **right side of MO2**:
 
-![Image 2]()
+![Image 2](https://i.imgur.com/tRDurko.png)
 
 ### Snag the megapatch from here: [ [DOWNLOAD]() ] ("View raw" button)
 
