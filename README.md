@@ -151,7 +151,7 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 
 ![Image 3](https://i.imgur.com/tRDurko.png)
 
-### Snag the megapatch from here: [ [DOWNLOAD]() ] ("View raw" button)
+### Snag the megapatch from here: [ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---NPC-Overhaul/blob/main/Septimus%20Extended%20-%20NPC%20Overhaul%20Megapatch.7z) ] ("View raw" button)
 
 Name it **[NoDelete] Septimus Extended - NPC Overhauls Megapatch**, and place it directly AFTER [NoDelete] [24] Lalup's NPCs - Creation Club - Salt and Wind. It's important that the following overhauls are at the very bottom on both the left and right side of MO2.
 
