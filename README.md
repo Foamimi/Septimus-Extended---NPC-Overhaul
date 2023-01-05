@@ -128,32 +128,39 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 24.) Download [Bijin Family - Salt and Wind Textures SE](https://www.nexusmods.com/skyrimspecialedition/mods/44975?tab=files&file_id=183352&nmm=1). In the FOMOD, tick the boxes for Bijin NPCs, Bijin Warmaidens, Bijin Wives, Serana, Valerica. On the next page, select 1.8. 
   - Install it under the name **[NoDelete] [22] Bijin Family - Salt and Wind**
 
-## Mods by Mharlek1
+## Mods by Mharlek1 and LalupK
 
 25.) Download [BeastHHBB - Npc replacer and player](https://www.nexusmods.com/skyrimspecialedition/mods/38480?tab=files&file_id=346839&nmm=1). 
   - Install it under the name **[NoDelete] [23] BeastHHBB - Player Character and NPC Replacer**
   - **IMPORTANT** - The guide currently uses the "Player Only" version of this mod, and already comes with a plugin called **BeastHHBB.esp**. We'll want to find it on the right side of MO2, and drag it to the veryyyy bottom to **BELOW** **Bijin AIO.esp**.
 
-## Mods by LalupK
-
 26.) Download [Lalup's NPCs - Creation Club](https://www.nexusmods.com/skyrimspecialedition/mods/77129?tab=files&file_id=345131&nmm=1) and [Lalup's NPCs - Creation Club - Salt and Wind](https://www.nexusmods.com/skyrimspecialedition/mods/75663?tab=files&file_id=330202&nmm=1). In the FOMOD, select Next, tick the Skyrim Extended Cut - Saints and Seducers option and select Next, don't tick any of the patches and press Install.
   - Install the first mod under the name **[NoDelete] [24] Lalup's NPCs - Creation Club**
   - Install the second mod under the name **[NoDelete] [24] Lalup's NPCs - Creation Club - Salt and Wind**
+  
+## Mods by Nerjaveika and Sorca97
+
+27.) Download [VIGILANT - NPC Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/22146?tab=files&file_id=338091&nmm=1) and [VIGILANT - NPC Overhaul - Salt and Wind](https://github.com/Foamimi/Septimus-Extended---NPC-Overhaul/blob/main/VIGILANT%20-%20NPC%20Overhaul%20-%20Salt%20and%20Wind.7z) ("View raw" button). 
+  - Install the first mod under the name **[NoDelete] [25] VIGILANT - NPC Overhaul**
+  - Install the second mod under the name **[NoDelete] [25] VIGILANT - NPC Overhaul - Salt and Wind**
+
+28.) Download [Legacy of the Dragonborn Visual Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/64477?tab=files&file_id=278502&nmm=1). 
+  - Install it under the name **[NoDelete] [26] Legacy of the Dragonborn Visual Overhaul**
 
 # Last Steps
 
 **My theme of MO2 may be different than yours, but that's okay it'll all work the same!**
    - Here's how it should look on the **left side of MO2**:
 
-![Image 2](https://i.imgur.com/vAvcA1i.png)
+![Image 2](https://i.imgur.com/jNpV6Vq.png)
 
    - Then here's how it should look on the **right side of MO2**:
 
-![Image 3](https://i.imgur.com/tRDurko.png)
+![Image 3](https://i.imgur.com/mCK7TuD.png)
 
 ### Snag the megapatch from here: [ [DOWNLOAD](https://github.com/Foamimi/Septimus-Extended---NPC-Overhaul/blob/main/Septimus%20Extended%20-%20NPC%20Overhaul%20Megapatch.7z) ] ("View raw" button)
 
-Name it **[NoDelete] Septimus Extended - NPC Overhauls Megapatch**, and place it directly AFTER [NoDelete] [24] Lalup's NPCs - Creation Club - Salt and Wind. It's important that the following overhauls are at the very bottom on both the left and right side of MO2.
+Name it **[NoDelete] Septimus Extended - NPC Overhauls Megapatch**, and place it directly AFTER [NoDelete] [26] Legacy of the Dragonborn Visual Overhaul. It's important that the following overhauls are at the very bottom on both the left and right side of MO2.
 
 ### Then you are SET! Thanks for sticking with it the entire process, enjoy your game!
 
