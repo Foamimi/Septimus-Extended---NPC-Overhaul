@@ -165,7 +165,7 @@ Name it **[NoDelete] Septimus Extended - NPC Overhauls Megapatch**, and place it
 ### Then you are SET! Thanks for sticking with it the entire process, enjoy your game!
 
    - **Currently works with version 1.0.2 of Septimus.**
-   - **A patch for [Septimus-Extended - NPC Dialogue Addon](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/README.md) can be found here: [ [DOWNLOAD]() ] ("View raw" button). All the mods in that addon need to load BEFORE this one on BOTH sides of MO2.**
+   - **Currently works with [Septimus-Extended - NPC Dialogue Addon](https://github.com/Foamimi/Septimus-Extended---NPC-Dialogue/blob/main/README.md).**
 
 # Changelog
 
