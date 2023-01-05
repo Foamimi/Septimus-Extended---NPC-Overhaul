@@ -4,7 +4,7 @@
 
 # Introduction
 
-Hello! This addon will integrate various NPC overhauls into the world of Septimus-ified Skyrim. From creators such as LalupK, Tragedian, Southpawe, Mharlek1, Kalilies, Pandorable, and Rxkx22, these overhauls aim to flesh out the personality of each NPC through facelifts and enhancements. This will be a **manual process** with various steps involving downloading, compacting, ESLifiying, rearranging, etc. A provided megapatch will be available at the end of the guide. 
+Hello! This addon will integrate various NPC overhauls into the world of Septimus-ified Skyrim. From creators such as Tragedian, Southpawe, Pandorable, Rxkx22, and more, these overhauls aim to flesh out the personality of each NPC through facelifts and enhancements. This will be a **manual process** with various steps involving downloading, compacting, ESLifiying, rearranging, etc. A provided megapatch will be available at the end of the guide. 
 
 **It's essential to pay attention to load order for this branch! Otherwise, you'll run into mismatched faces and inconsistent AI behaviors!**
 
