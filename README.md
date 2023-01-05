@@ -1,5 +1,7 @@
 # Septimus-Extended---NPC-Overhaul Addon
 
+![Image 0](https://i.imgur.com/23RCf3a.png)
+
 # Introduction
 
 Hello! This addon will integrate various NPC overhauls into the world of Septimus-ified Skyrim. From creators such as LalupK, Tragedian, Southpawe, Mharlek1, Kalilies, Pandorable, and Rxkx22, these overhauls aim to flesh out the personality of each NPC through facelifts and enhancements. This will be a **manual process** with various steps involving downloading, compacting, ESLifiying, rearranging, etc. A provided megapatch will be available at the end of the guide. 
@@ -115,7 +117,7 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 
 22.) Download [Bijin Fixes (AIO or Separate)](https://www.nexusmods.com/skyrimspecialedition/mods/56047?tab=files&file_id=231243&nmm=1). In the FOMOD, under the "With USSEP" category, tick "Bijin AIO." Don't tick the individual Bijin patches, as the AIO will cover the fixes from those options. On the next page don't tick anything. On the final page, don't tick anything.
 
-![Image 0](https://i.imgur.com/ddEyf4m.png)
+![Image 1](https://i.imgur.com/ddEyf4m.png)
 
   - Install it under the name **[NoDelete] [22] Bijin Fixes (AIO)**
   - **IMPORTANT** - This contains the records from the past few plugins we just hid! Hence why we hid them. :)
@@ -143,11 +145,11 @@ All the plugins going forward will be at the very bottom, **below all of the Sep
 **My theme of MO2 may be different than yours, but that's okay it'll all work the same!**
    - Here's how it should look on the **left side of MO2**:
 
-![Image 1](https://i.imgur.com/vAvcA1i.png)
+![Image 2](https://i.imgur.com/vAvcA1i.png)
 
    - Then here's how it should look on the **right side of MO2**:
 
-![Image 2](https://i.imgur.com/tRDurko.png)
+![Image 3](https://i.imgur.com/tRDurko.png)
 
 ### Snag the megapatch from here: [ [DOWNLOAD]() ] ("View raw" button)
 
